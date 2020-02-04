@@ -1,0 +1,10 @@
+tedesco
+latino
+italiano/inglese
+italiano/latino
+italiano/dialettale
+italiano
+inglese
+francese
+italiano/tedesco
+italiano/spagnolo
